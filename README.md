@@ -3,7 +3,7 @@ Exment詳細画面でボタンを押すことで指定の列やURLをQRコード
 
 - simplesoftwareio/simple-qrcodeライブラリを使用しています。
 
-- ExmentのVersionによっては使用できない場合があります。
+- ExmentのVersionによってはライブラリが含まれていない場合があります。
 
 # 動作確認Version
 - v6.2.0で開発と動作テストを実施しました。
