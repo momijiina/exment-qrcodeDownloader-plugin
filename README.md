@@ -1,0 +1,2 @@
+# exment-qrcodeDownloader-plugin
+Exment詳細画面でボタンを押すことで指定の列やURLをQRコードとしてPNG形式でダウンロードします。
