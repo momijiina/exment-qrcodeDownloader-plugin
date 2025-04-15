@@ -1,1 +1,11 @@
-
+{
+    "plugin_name": "QrCodeDownload",
+    "uuid": "88e0b3c0-199e-11f0-9e92-0800200c9a66",
+    "plugin_view_name": "QRコードをダウンロード",
+    "description": "詳細画面でQRコードを生成する",
+    "author": "momijiina",
+    "version": "1.0.0",
+    "plugin_type": "button",
+    "event_triggers": "form_menubutton_show",
+    "target_tables": "information"
+}
